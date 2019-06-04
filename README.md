@@ -4,7 +4,7 @@ This repository contains lab and homework assignment for the course Reinforcemen
 
 ## Labs
 
-### Lab1 - Dynammic Programming, Policy Evaluation, Policy Iteration, Value Iteration, Monte Carlo control, Temporal Differnce Learning
+## Lab1 - Dynammic Programming, Policy Evaluation, Policy Iteration, Value Iteration, MC Control, TD Learning
 
 In this lab we get familiar with basic concepts of **Dynammic Programming** and use it for the implementation of **Policy Evaluation**, **Policy Iteration**  and **Value Iteration** for GridWorldEnv. We also implement **Monte Carlo Prediction** and **Monte Carlo control with $\epsilon$ - greedy policy** on  BlackjackEnv. Apart from that we also explore **Temporal Difference Learning**. 
 
@@ -18,3 +18,4 @@ or 21, computed by Monte Carlo policy evaluation.</i>
   <i>The optimal policy and state-value function for blackjack, found by Monte Carlo epsilon greedy policy</i>
 </p>
 
+Code and answers to theoretical questions can be found [here](labs/lab1/).
