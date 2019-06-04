@@ -21,3 +21,6 @@ or 21, computed by Monte Carlo policy evaluation.</i>
 #### Problems and Solutions
 
 Problema and solution can be found under **ipynb** files [here](labs/lab1/).
+
+##Homeworks
+Homework is in colloboration with [Dhruba Pujary](https://github.com/druv022). Problems and Solutions to the homework assignment can be found [here](homework). 
