@@ -18,4 +18,6 @@ or 21, computed by Monte Carlo policy evaluation.</i>
   <i>The optimal policy and state-value function for blackjack, found by Monte Carlo epsilon greedy policy</i>
 </p>
 
-Code can be found [here](labs/lab1/).
+#### Problems and Solutions
+
+Problema and solution can be found under **ipynb** files [here](labs/lab1/).
