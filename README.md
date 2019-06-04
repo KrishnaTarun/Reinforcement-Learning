@@ -4,9 +4,9 @@ This repository contains lab and homework assignment for the course Reinforcemen
 
 ## Labs
 
-## Lab1 - Dynammic Programming, Policy Evaluation, Policy Iteration, Value Iteration, MC Control, TD Learning
+### Lab1 - Dynammic Programming, Policy Evaluation, Policy Iteration, Value Iteration, MC Control, TD Learning
 
-In this lab we get familiar with basic concepts of **Dynammic Programming** and use it for the implementation of **Policy Evaluation**, **Policy Iteration**  and **Value Iteration** for GridWorldEnv. We also implement **Monte Carlo Prediction** and **Monte Carlo control with $\epsilon$ - greedy policy** on  BlackjackEnv. Apart from that we also explore **Temporal Difference Learning**. 
+In this lab we get familiar with basic concepts of Dynammic Programming and use it for the implementation of Policy Evaluation, Policy Iteration  and Value Iteration for GridWorldEnv. We also implement Monte Carlo Prediction and Monte Carlo control with \epsilon-greedy policy on  BlackjackEnv. Apart from that we also explore Temporal Difference Learning. 
 
 <p align="center">
   <img src="labs/lab1/figure/fig1.png" width="500" /><br />
