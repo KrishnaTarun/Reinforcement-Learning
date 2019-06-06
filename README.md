@@ -26,7 +26,7 @@ Problema and solution can be found under **ipynb** files [here](labs/lab1/).
 
 #### Problems and Solutions
 
-Problema and solution can be found under **ipynb** files [here](labs/lab2/).
+Problem and solution can be found under **ipynb** files [here](labs/lab2/).
 
 ## Homeworks
 
